@@ -1,1 +1,2 @@
 My second git file
+Welcome to my second git file
